@@ -43,6 +43,8 @@ A client wanted to compare multiple smartphone models objectively rather than re
 - Recommended the top three smartphones based on predefined criteria
 
 ## Repository Structure
+
+```text
 python-mobile-device-analysis/
 │
 ├── data/
@@ -55,3 +57,4 @@ python-mobile-device-analysis/
 ├── requirements.txt
 ├── LICENSE
 └── .gitignore
+```
